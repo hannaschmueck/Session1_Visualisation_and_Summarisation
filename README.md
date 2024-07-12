@@ -12,10 +12,9 @@ For more information about the UCREL Summer School, please visit: [UCREL Summer 
 ### Notebooks
 
 1. **1_Visualisation_SpaCy_Tutorial.ipynb**: This notebook demonstrates how to use SpaCy for text visualisation, focusing on named entity recognition and syntactic dependency parsing.
-2. **2_visualisation_wordcloud.ipynb**: This notebook shows how to create and visualise word clouds from text data.
-3. **2_visualisation_wordcloud_Multi.ipynb**: This notebook extends the word cloud visualisation to handle multiple categories of text data.
-4. **2_visualisation_wordcloud_Parliament.ipynb**: This notebook focuses on visualising word clouds from parliamentary debates.
-5. **4_Text_Summariser.ipynb**: This notebook demonstrates how to summarise text using NLP techniques.
+2. **2_visualisation_Arabic.ipynb**: This notebook shows how to create and visualise word clouds from text data.
+3. **2_visualisation_wordcloud_Parliament.ipynb**: This notebook focuses on visualising word clouds from parliamentary debates.
+3. **3_Text_Summariser.ipynb**: This notebook demonstrates how to summarise text using NLP techniques.
 
 ### Folders
 
