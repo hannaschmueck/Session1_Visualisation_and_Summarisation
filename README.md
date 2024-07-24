@@ -1,4 +1,3 @@
-
 # NLP Visualisation Tutorials
 
 ## Introduction
@@ -12,13 +11,15 @@ For more information about the UCREL Summer School, please visit: [UCREL Summer 
 ### Notebooks
 
 1. **1_Visualisation_SpaCy_Tutorial.ipynb**: This notebook demonstrates how to use SpaCy for text visualisation, focusing on named entity recognition and syntactic dependency parsing.
-2. **2_visualisation_Arabic.ipynb**: This notebook shows how to create and visualise word clouds from text data.
-3. **2_visualisation_wordcloud_Parliament.ipynb**: This notebook focuses on visualising word clouds from parliamentary debates.
+2. **2_BigData_Visualisation.ipynb**: This notebook shows how to create and visualise word clouds from text data.
 3. **3_Text_Summariser.ipynb**: This notebook demonstrates how to summarise text using NLP techniques.
+4. **ArabicNews_wordcloud.ipynb**: This notebook demonstrates how to create and visualise word clouds for Arabic news.
+5. **Parliament_wordcloud.ipynb**: This notebook focuses on visualising word clouds from parliamentary debates.
 
 ### Folders
 
-- **Notebooks**: Contains all the Jupyter notebooks.
+- **Extra-NoteBooks**: Contains additional Jupyter notebooks for specific visualisation tasks.
+- **Notebooks**: Contains all the main Jupyter notebooks.
 - **data**: Contains sample datasets used in the tutorials.
 - **static**: Contains static files, such as images, used in the notebooks.
 
