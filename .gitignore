@@ -1,4 +1,8 @@
 
+<<<<<<< Updated upstream
+=======
+*.greek
+>>>>>>> Stashed changes
 /data
 /nlp_env
 /NoteBooks/data
