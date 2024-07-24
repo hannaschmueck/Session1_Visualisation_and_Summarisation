@@ -1,1 +1,16 @@
-
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+spacy
+scikit-learn
+textstat
+wordcloud
+summa
+transformers
+bert-score
+ipywidgets
+rouge-score
+pyvis
+networkx
