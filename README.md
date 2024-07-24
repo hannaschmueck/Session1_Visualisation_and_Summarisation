@@ -1,4 +1,4 @@
-# NLP Visualisation Tutorials
+# Session1 Visualisation and Summarisation Tutorials
 
 ## Introduction
 
