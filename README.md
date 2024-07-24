@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is part of the UCREL Summer School (USS) 2024, showcasing a series of Jupyter notebooks focused on visualising various aspects of Natural Language Processing (NLP) using SpaCy and other tools. These tutorials are designed to help participants understand and apply techniques for text visualisation, including named entity recognition, syntactic dependency parsing, and creating word clouds.
+This repository is part of the UCREL Summer School (USS) 2024, showcasing a series of Jupyter notebooks focused on visualising various aspects of Natural Language Processing (NLP) using SpaCy and other tools. These tutorials are designed to help participants understand and apply techniques for text visualisation and summarisation, including named entity recognition, syntactic dependency parsing, and creating word clouds.
 
 For more information about the UCREL Summer School, please visit: [UCREL Summer School 2024](https://ucrel.lancs.ac.uk/uss2024/index.html).
 
